@@ -1,0 +1,19 @@
+#root {
+  /* max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem; */
+  text-align: center;
+}
+
+#Logo {
+  width: 12%;
+  margin-right: 2px;
+}
+/*.active y .menu, son temporales*/
+.active {
+  color: #ff0000 ; /* Cambia esto al color deseado para el enlace activo */
+  /*font-weight: bold; /* O cualquier otro estilo que desees aplicar */
+}
+.menu {
+  font-weight: bold;
+}
